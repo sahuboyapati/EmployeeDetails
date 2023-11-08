@@ -1,0 +1,7 @@
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day3\ConsEmployeeDetails\ConsEmployeeDetails\bin\Debug\ConsEmployeeDetails.exe.config
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day3\ConsEmployeeDetails\ConsEmployeeDetails\bin\Debug\ConsEmployeeDetails.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day3\ConsEmployeeDetails\ConsEmployeeDetails\bin\Debug\ConsEmployeeDetails.pdb
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day3\ConsEmployeeDetails\ConsEmployeeDetails\obj\Debug\ConsEmployeeDetails.csproj.AssemblyReference.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day3\ConsEmployeeDetails\ConsEmployeeDetails\obj\Debug\ConsEmployeeDetails.csproj.CoreCompileInputs.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day3\ConsEmployeeDetails\ConsEmployeeDetails\obj\Debug\ConsEmployeeDetails.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day3\ConsEmployeeDetails\ConsEmployeeDetails\obj\Debug\ConsEmployeeDetails.pdb
